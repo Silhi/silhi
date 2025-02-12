@@ -2,10 +2,10 @@
 
 ### A passionate individual in system analysis, programming, and data.
 
-- 🔭 I have worked as a **laboratory assistant for Object-Oriented Programming.**
+- 🔭 I have worked as a **laboratory assistant for Object-Oriented Programming (6 Months).**
 - 🌱 Currently learning **Cybersecurity, Laravel**
-- 👨‍💻 Check out my projects: [My Portfolio](https://linkbio.co/silhii)
-- 📝 Read my articles: [My Blog](https://linkbio.co/silhii)
+- 👨‍💻 Check out my projects: [My Portfolio](https://linkbio.co/silhi)
+- 📝 Read my articles: [My Blog](https://linkbio.co/silhi)
 - 📫 Contact me: **silhi.16@mhs.itenas.ac.id**
 
 ## 🌐 Connect with me:
@@ -28,11 +28,41 @@
 
 ## 📊 GitHub Stats:
 ### 🌗 Light Mode
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silhi&layout=compact&theme=light)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Silhi&show_icons=true&theme=light)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Silhi&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silhi&layout=compact&theme=light)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silhi&show_icons=true&theme=light)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=silhi&theme=light)
 
 ### 🌑 Dark Mode
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silhi&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Silhi&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Silhi&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silhi&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silhi&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=silhi&theme=dark)
+
+## 🎨 Animated Background & Effects
+```css
+@keyframes floating {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+.animated-profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: floating 3s ease-in-out infinite;
+}
+
+.animated-title {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  animation: fadeIn 2s ease-in-out;
+}
+```
+
+```html
+<div class="animated-profile">
+  <img src="https://example.com/profile-image.png" alt="Profile Image" width="200px">
+</div>
+<h1 class="animated-title">Welcome to My Profile</h1>
+```
