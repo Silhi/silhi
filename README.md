@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Silhi</h1>
-<h3 align="center">A passionate individual in system analysis, programming, and data.</h3>
+<h3 align="center">Open to collaboration in system analysis, programming, and data—always eager to learn, grow, and create impactful solutions together!</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47kudjour40dmftzlnmy4ofngi0xkrb88znt1ushdy&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Programming GIF" width="400px">
