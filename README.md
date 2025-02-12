@@ -2,14 +2,14 @@
 <h3 align="center">A passionate individual in system analysis, programming, and data.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E5Zjk1ZmI3Y2I0NzBhZGFiNGRjNjc2ZTNhODZlN2NlMmM3YzMxNjJlY2I4ZmZlMmNiYzM5bmluc2ZkZTlqZmZ4LQ/giphy.gif" alt="Programming GIF" width="400px">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611an759wzknql85gn8y4f02u898ahzjrh7av5gsalj&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Programming GIF" width="400px">
 </p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=silhi&label=Profile%20views&color=0e75b6&style=flat" alt="silhi" />
 </p>
 
-- 🔭 I have previously worked as a **laboratory assistant for Object-Oriented Programming.**
+- 🔭 I have previously worked as a **laboratory assistant for Object-Oriented Programming (6 Months).**
 - 🌱 I’m currently learning **Cybersecurity** and **Laravel.**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://linkbio.co/silhii).
 - 📝 I regularly write articles on [My Blog](https://linkbio.co/silhii).
@@ -53,6 +53,11 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
 
+#### 🖌️ Design Tools:
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Figma-logo.svg" alt="figma" width="40" height="40"/> </a>
+</p>
+
 ---
 
 ### 📊 Stats:
@@ -62,3 +67,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silhi&show_icons=true&locale=en" alt="silhi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silhi&" alt="silhi" /></p>
+
+<!-- Activity Snake -->
+<p align="center">
+  <img src="https://github.com/silhi/silhi/blob/main/assets/github-contribution-grid-snake.svg" alt="snake" />
+</p>
