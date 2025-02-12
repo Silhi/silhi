@@ -1,0 +1,28 @@
+/* Animasi Floating */
+@keyframes floating {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+/* Efek animasi pada profile */
+.animated-profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: floating 3s ease-in-out infinite;
+}
+
+/* Judul animasi */
+.animated-title {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  animation: fadeIn 2s ease-in-out;
+}
+
+/* Efek Fade In */
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
