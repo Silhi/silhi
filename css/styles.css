@@ -1,11 +1,17 @@
-/* Animasi Floating */
+/* Animasi untuk floating */
 @keyframes floating {
   0% { transform: translateY(0px); }
   50% { transform: translateY(-10px); }
   100% { transform: translateY(0px); }
 }
 
-/* Efek animasi pada profile */
+/* Animasi untuk fade-in */
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+/* Animasi pada gambar profil atau placeholder */
 .animated-profile {
   display: flex;
   justify-content: center;
@@ -13,16 +19,89 @@
   animation: floating 3s ease-in-out infinite;
 }
 
-/* Judul animasi */
+.profile-placeholder {
+  font-size: 100px;
+  animation: floating 3s ease-in-out infinite;
+}
+
+/* Animasi untuk judul */
 .animated-title {
-  font-size: 24px;
+  font-size: 30px;
   font-weight: bold;
   text-align: center;
   animation: fadeIn 2s ease-in-out;
+  margin-top: 20px;
 }
 
-/* Efek Fade In */
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
+/* Styling untuk bio section */
+.bio {
+  font-size: 18px;
+  margin: 20px 0;
+  text-align: center;
+}
+
+.bio ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.bio li {
+  margin: 10px 0;
+}
+
+.bio a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+.bio a:hover {
+  text-decoration: underline;
+}
+
+/* Styling untuk section connect */
+.connect {
+  text-align: center;
+  margin: 40px 0;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.social-link {
+  font-size: 18px;
+  text-decoration: none;
+  color: #333;
+}
+
+.social-link:hover {
+  color: #0077cc;
+}
+
+/* Styling untuk languages and tools */
+.languages {
+  text-align: center;
+}
+
+.languages ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.languages li {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+/* Styling footer */
+footer {
+  text-align: center;
+  margin-top: 40px;
+}
+
+footer h2 {
+  font-size: 24px;
+  font-weight: bold;
 }
