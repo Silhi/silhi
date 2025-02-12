@@ -2,15 +2,15 @@
 <h3 align="center">A passionate individual in system analysis, programming, and data.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt5pQJ0VxVxVx6w/giphy.gif" alt="Programming GIF" width="400px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E5Zjk1ZmI3Y2I0NzBhZGFiNGRjNjc2ZTNhODZlN2NlMmM3YzMxNjJlY2I4ZmZlMmNiYzM5bmluc2ZkZTlqZmZ4LQ/giphy.gif" alt="Programming GIF" width="400px">
 </p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=silhi&label=Profile%20views&color=0e75b6&style=flat" alt="silhi" />
 </p>
 
-- 🔭 I have previously worked as a **laboratory assistant for Object-Oriented Programming**.
-- 🌱 I’m currently learning **Cybersecurity** and **Laravel**.
+- 🔭 I have previously worked as a **laboratory assistant for Object-Oriented Programming.**
+- 🌱 I’m currently learning **Cybersecurity** and **Laravel.**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://linkbio.co/silhii).
 - 📝 I regularly write articles on [My Blog](https://linkbio.co/silhii).
 - 📫 How to reach me: **silhi.16@mhs.itenas.ac.id**.
@@ -50,5 +50,15 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w
-::contentReference[oaicite:3]{index=3}
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 📊 Stats:
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silhi&show_icons=true&locale=en&layout=compact" alt="silhi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silhi&show_icons=true&locale=en" alt="silhi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silhi&" alt="silhi" /></p>
