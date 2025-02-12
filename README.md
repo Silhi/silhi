@@ -28,11 +28,11 @@
 
 ## 📊 GitHub Stats:
 ### 🌗 Light Mode
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slhiix&layout=compact&theme=light)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=slhiix&show_icons=true&theme=light)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=slhiix&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silhi&layout=compact&theme=light)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Silhi&show_icons=true&theme=light)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Silhi&theme=light)
 
 ### 🌑 Dark Mode
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slhiix&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=slhiix&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=slhiix&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silhi&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Silhi&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Silhi&theme=dark)
