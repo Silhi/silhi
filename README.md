@@ -2,7 +2,7 @@
 <h3 align="center">A passionate individual in system analysis, programming, and data.</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611an759wzknql85gn8y4f02u898ahzjrh7av5gsalj&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47kudjour40dmftzlnmy4ofngi0xkrb88znt1ushdy&ep=v1_gifs_related&rid=giphy.gif&ct=g)" alt="Programming GIF" width="400px">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611an759wzknql85gn8y4f02u898ahzjrh7av5gsalj&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47kudjour40dmftzlnmy4ofngi0xkrb88znt1ushdy&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Programming GIF" width="400px">
 </p>
 
 <p align="left">
