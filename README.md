@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Silhi</h1>
-<h3 align="center">Open to collaboration in system analysis, programming, and data—always eager to learn, grow, and create impactful solutions together!</h3>
+<h3 align="center">Passionate about real-world collaboration in system analysis, programming, and data. Always eager to learn, grow, and contribute to impactful, real-life solutions.</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47kudjour40dmftzlnmy4ofngi0xkrb88znt1ushdy&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Programming GIF" width="400px">
@@ -11,10 +11,19 @@
 
 - 🔭 I have previously worked as a **laboratory assistant for Object-Oriented Programming (6 Months).**
 - 🌱 I’m currently learning **Cybersecurity** and **Laravel.**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://linkbio.co/silhii).
-- 📝 I regularly write articles on [My Blog](https://linkbio.co/silhii).
 - 📫 How to reach me: **silhi.16@mhs.itenas.ac.id**.
 - 📄 Know about my experiences at [My Resume](https://linkbio.co/silhii).
+
+---
+
+### 🚀 Projects:
+- 🔹 [IS Read – Intelligent Reading System](https://github.com/Silhi/ISRead)
+- 🔹 [Aksi Kita – Action Campaign System](https://github.com/Silhi/Aksi-Kita-Project)
+
+---
+
+### 📂 Portofolio Document – SRS & Publication:
+📄 [SRS & Published Articles](https://linkbio.co/silhii) – This includes Software Requirement Specification documents and selected published writings during my studies.
 
 ---
 
@@ -46,14 +55,33 @@
 
 #### 🛠️ Tools & Frameworks:
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="sublime text" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  </a>
+  <a href="https://laravel.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+  </a>
+  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="sublime text" width="40" height="40"/> 
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a>
 </p>
 ---
 
