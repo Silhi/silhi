@@ -17,8 +17,9 @@
 ---
 
 ### 🚀 Projects:
-- 🔹 [IS Read – Intelligent Reading System](https://github.com/Silhi/ISRead)
+- 🔹 [IS Read – Reading System](https://github.com/Silhi/ISRead)
 - 🔹 [Aksi Kita – Action Campaign System](https://github.com/Silhi/Aksi-Kita-Project)
+- 🔹 [Redesign App – Final Project HCI](https://drive.google.com/folderview?id=1REAlRl1Zpq6eKcnEpb-7WN3ZLDlf-MW5)
 
 ---
 
