@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Silhi</h1>
-<h3 align="center">Passionate about real-world collaboration in system analysis, programming, and data. Always eager to learn, grow, and contribute to impactful, real-life solutions.</h3>
+<h3 align="center">I am a detail-oriented, fast learner, adaptable, and work well in teams. I look forward to contributing and growing through collaboration in real-world IT projects.
+</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47kudjour40dmftzlnmy4ofngi0xkrb88znt1ushdy&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Programming GIF" width="400px">
