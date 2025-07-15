@@ -13,7 +13,7 @@
 - 🔭 I have previously worked as a **laboratory assistant for Object-Oriented Programming (6 Months).**
 - 🌱 I’m currently learning **Cybersecurity** and **Laravel.**
 - 📫 How to reach me: **silhi.office@gmail.com**.
-- 📄 Know about my experiences at [My Resume](https://linkbio.co/silhii).
+- 📄 Know about my experiences at [My Portofolio](https://linkbio.co/silhii).
 
 ---
 
