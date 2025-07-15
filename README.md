@@ -26,7 +26,12 @@
 ---
 
 ### 📂 Portofolio Document – SRS & Publication:
-📄 [SRS & Published Articles](https://linkbio.co/silhii) – This includes Software Requirement Specification documents and selected published writings during my studies.
+
+📄 [SRS & Published Articles](https://linkbio.co/silhii)  
+This includes Software Requirement Specification (SRS) documents and selected academic publications during my studies, including a **SINTA 2 journal article**:
+
+**"Risk Management Guide for Information System Infrastructure in Digital Banking"**  
+🔗 [View Journal Article (SINTA 2)](https://ejournal.pnc.ac.id/index.php/jinita/article/view/2621)
 
 ---
 
