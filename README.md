@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Silhi</h1>
+<h1 align="center">Hiii👋, I'm Silhi</h1>
 <h3 align="center">I am a detail-oriented, fast learner, adaptable, and work well in teams. I look forward to contributing and growing through collaboration in real-world IT projects.
 </h3>
 
