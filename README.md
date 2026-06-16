@@ -17,10 +17,30 @@
 ## 🚀 Featured Projects
 
 ---
+### 🐑 Gumolong Farm – Livestock Management System
+**Year:** 2026 · **Role:** Full-Stack Developer  
+🔗 [View Repository](https://github.com/tr1p3ln/gumolong-farm)
+
+**The Problem**  
+Farmers managing sheep livestock often rely on manual record-keeping for growth tracking, feed inventory, and farm operations — leading to inefficiencies, data inconsistencies, and poor decision-making due to lack of real-time information.
+
+**My Role & What I Did**  
+- **Developed core modules** for sheep growth tracking, feed inventory management, and user management.
+- **Implemented role-based access control** to ensure each user only accesses relevant features based on their role.
+- **Built PDF and Excel reporting features** to help farm managers export and analyze operational data easily.
+- **Contributed to database design** and system integration to ensure data consistency across modules.
+- **Developed responsive web interfaces** for usability across different devices.
+
+**What I Learned**  
+This project taught me how to translate real agricultural workflows into structured digital systems. I learned to balance technical requirements with practical usability for non-technical end users like farmers.
+
+**Tech Stack:** PHP, Laravel, Alpine.js, Tailwind CSS, PostgreSQL
+
+---
 
 ### 📊 Insight – Accreditation Dashboard for Higher Education
 **Year:** 2025 · **Role:** Database Designer & Data Visualization Developer  
-🔗 [View Project](https://github.com/silhi)
+🔗 *Repository is private (institutional project) — available for demo with dummy data upon request*
 
 **The Problem**  
 Universities in Indonesia face significant challenges in preparing for accreditation. Data from lecturers and institutional records is often scattered, inconsistent, and not mapped to the official BAN-PT (National Accreditation Board) standards — making it difficult to identify gaps and generate meaningful reports.
